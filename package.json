@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@permitio/permit-js": "^0.4.4",
+    "dotenv": "^16.4.5",
     "next": "14.2.5",
     "permitio": "^2.5.1",
     "react": "^18",
